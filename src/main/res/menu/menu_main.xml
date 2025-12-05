@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_option1" android:title="Display list"/>
+    <item android:id="@+id/action_option2" android:title="Load from web"/>
+    <item android:id="@+id/action_option3" android:title="Add from assets"/>
+    <item android:id="@+id/action_option4" android:title="Show details"/>
+    <item android:id="@+id/action_option5" android:title="Remove employee"/>
+    <item android:id="@+id/action_option6" android:title="Geometric mean"/>
+    <item android:id="@+id/action_option7" android:title="Count high-paid"/>
+</menu>

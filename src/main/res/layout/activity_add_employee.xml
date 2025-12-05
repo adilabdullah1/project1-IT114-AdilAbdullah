@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/addemp_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/et_assets_filename"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Assets filename (one employee, 7 lines)" />
+
+    <Button
+        android:id="@+id/btn_add_from_assets"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Employee from Assets" />
+</LinearLayout>
